@@ -262,14 +262,5 @@ The app will open automatically at `http://localhost:8501`
 > It is **not** a substitute for professional mental health advice, diagnosis, or treatment.
 > If you or someone you know is struggling with mental health, please consult a qualified healthcare professional.
 
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
 
 *Made with ❤️ to raise awareness about mental health in the tech industry.*
