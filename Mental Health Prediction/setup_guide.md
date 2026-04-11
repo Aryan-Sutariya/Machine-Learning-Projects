@@ -52,6 +52,3 @@ streamlit run mental_health_prediction.py
 ```
 This command will start a local server and automatically open the application your default web browser (typically at http://localhost:8501).
 
----
-### 📌 Important Note regarding Progress Reports
-If you decide to review the included Jupyter Notebook (`Progress Report 2.ipynb`), please note that **only the section containing Week 4-5 is important**. You can safely skip reading the rest of the notebook.
